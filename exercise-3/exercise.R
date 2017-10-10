@@ -31,7 +31,7 @@ MarbleGame <- function() {
       print(paste0("Congratulations! You used ", count, " time(s) to get it right!"))
       return (0)
     } else {
-      print("Hah hah! You get it wrong ^_^, its")
+      print("Hah hah! You get it wrong ^_^")
     }
   }
 }
